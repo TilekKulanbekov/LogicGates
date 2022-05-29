@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('file:///Users/tilek/Desktop/Logic-Gates-main/assets/bg_repeat.jpg');
+    background: url('../img/bg.png');
     min-height: 100vh;
     display: flex;
     flex-direction: column;
