@@ -4,3 +4,4 @@
 ## used library P5js
 
 # we have three reports 15 points 
+##https://tilekkulanbekov.github.io/LogicGates/
